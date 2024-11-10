@@ -39,7 +39,8 @@ const requestZillowData = async (url) => {
     if (nextDataElement) {
       // If the element exists, parse the JSON
       const jsonData = JSON.parse(nextDataElement.textContent);
-      return jsonData;
+      return jsonData.props.pageProps.searchPageState.cat1.searchResults
+        .listResults;
     } else {
       console.log("Element '__NEXT_DATA__' not found in the page.");
       return null;

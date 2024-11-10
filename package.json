@@ -14,7 +14,7 @@
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
     "jsdom": "^25.0.1",
-    "node-fetch": "^": "^5.0.2",
+    "node-fetch-cache": "^5.0.2",
     "nodemon": "^3.1.7"
   }
 }
