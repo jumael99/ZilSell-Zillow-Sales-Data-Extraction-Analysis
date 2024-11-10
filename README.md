@@ -1,6 +1,6 @@
 # ZilSell: Zillow Sales Data Extraction & Analysis
 
-![alt text](/home/jumael99/github/clone/zillow-scraper-assignment-jumael99/docs/working_fine_zillow_scrapper.png)
+![alt text](./docs/zillow-scraper-assignment-jumael99/docs/working_fine_zillow_scrapper.png)
 
 **ZilSell** is a Node.js-based project designed to extract and analyze property sales data from Zillow. By using web scraping techniques and fetching JSON data, it provides insights into the number of houses sold in specific areas. This tool can help real estate analysts and developers to access Zillow's real estate data in a structured manner.
 
